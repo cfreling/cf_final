@@ -1,0 +1,120 @@
+ID,Name,City,County,Zip Code,Latitude,Longitude,Landfill Owner Organization(s),Current Landfill Status,Waste_Tons,resize,LFG Collection System In Place?,LFG_Collected,lfg_size,LFG Energy Project Type,Current Year Emission Reductions (MMTCO2e/yr) - Direct,reduction_size,color
+2317,"Saline County Landfill, Inc.",Harrisburg,Saline,62946,37.671012,-88.462125,"Republic Services, Inc.",Closed,1269000,4,Yes,0.211,2.532,Unknown,,0,darkblue
+524,Herrin Municipal,Herrin,Williamson,,37.776,-89.0055,"City of Herrin, IL",Closed,1980816,4,No,,0,Unknown,,0,tan
+490,Southern Illinois Regional LF,De Soto,Jackson,62924,37.8417,-89.258,"Republic Services, Inc.",Open,9591996,10,Yes,2.306,27.672,Unknown,,0,skyblue
+2320,West End Disposal Facility,Thompsonville,Saline,62890,37.875604,-88.702646,Landfill L.L.C.,Open,1130413,3,No,,0,Unknown,,0,brown
+2312,"Perry Ridge Landfill, Inc.",Du Quoin,Perry,62832,38.035,-89.301,"GERE Properties, Inc.",Open,1068459,3,No,,0,Unknown,,0,brown
+2306,Cottonwood Hills LF,Marissa,St. Clair,62257,38.26,-89.78,"Waste Management, Inc.",Open,7880947,9,Yes,1.864,22.368,Unknown,,0,skyblue
+2319,Wayne County Landfill,Fairfield,Wayne,62837,38.38,-88.447,"Republic Services, Inc.",Open,1939520,4,No,,0,Unknown,,0,brown
+1856,Belleville Sanitary LF,Belleville,St. Clair,62220,38.48359,-90.011824,"Republic Services, Inc.",Closed,2343402,5,Yes,0.121,1.452,Unknown,,0,darkblue
+514,Modern Landfill,Belleville,St. Clair,62226,38.48846,-90.02839,"Republic Services, Inc.",Closed,6014100,8,Yes,0.332,3.984,Unknown,,0,darkblue
+2316,Salem Municipal Landfill #2,Salem,Marion,62881,38.6165,-88.9453,"City of Salem, IL",Closed,107200,1,No,,0,Unknown,,0,tan
+516,Milam Recycling and Disposal Facility,East St. Louis,St. Clair,62201,38.6547,-90.1302,"Waste Management, Inc.",Open,29903905,17,Yes,4.556,54.672,Vehicle Fuel,0.2950,3.54024,skyblue
+516,Milam Recycling and Disposal Facility,East St. Louis,St. Clair,62201,38.6547,-90.1302,"Waste Management, Inc.",Open,29903905,17,Yes,4.556,54.672,Reciprocating Engine,,0,skyblue
+2311,Sumner Landfill,Sumner,Lawrence,62466,38.7167,-87.8063,"Republic Services, Inc.",Open,2152768,5,No,,0,Unknown,,0,brown
+504,Chain of Rocks RDF,Granite City,Madison,62040,38.76235,-90.12949,"Waste Management, Inc.",Closed,5965128,8,Yes,0.486,5.832,Unknown,,0,darkblue
+1874,Roxana LF,Edwardsville,Madison,62025,38.8274,-90.0125,"Republic Services, Inc.",Open,28399509,17,Yes,6.63,79.56,Reciprocating Engine,,0,skyblue
+1874,Roxana LF,Edwardsville,Madison,62025,38.8274,-90.0125,"Republic Services, Inc.",Open,28399509,17,Yes,6.63,79.56,Vehicle Fuel,,0,skyblue
+470,Bond County LF,Greenville,Bond,62246,38.88497,-89.42086,"Republic Services, Inc.",Closed,1581904,4,Yes,0.353,4.236,Unknown,,0,darkblue
+503,Alton Municipal Landfill,Godfrey,Madison,62035,38.928,-90.179,"City of Alton, IL",Closed,660557,3,No,,0,Unknown,,0,tan
+1873,RCS Landfill,Jerseyville,Jersey,62052,39.08687,-90.31789,"Republic Services, Inc.",Open,584700,2,Yes,,0,Unknown,,0,skyblue
+2420,Jerseyville Sanitation Landfill,Jerseyville,Jersey,62052,39.0869,-90.3189,"RCS, Inc.",Closed,,0,No,,0,Unknown,,0,tan
+2310,Landfill 33 Ltd.,Effingham,Effingham,62401,39.101,-88.526,Landfill 33 Ltd.,Open,2067302,5,No,,0,Unknown,,0,brown
+1877,Litchfield-Hillsboro LF,Litchfield,Montgomery,62056,39.17,-89.615,"Republic Services, Inc.",Open,3234700,6,Yes,0.577,6.924,Unknown,,0,skyblue
+472,Coles County Landfill,Charleston,Coles,61920,39.509,-88.267,"Republic Services, Inc.",Closed,824600,3,Yes,0.733,8.796,Unknown,,0,darkblue
+471,Five Oaks RDF,Taylorville,Christian,62568,39.54693,-89.29487,"Waste Management, Inc.",Open,13257880,12,Yes,1.446,17.352,Cogeneration,0.1279,1.53432,skyblue
+2313,Hickory Ridge Landfill Inc.,Baylis,Pike,62314,39.698,-90.914,"Coulter Companies, Inc.",Open,3805679,6,Yes,1.165,13.98,Unknown,,0,skyblue
+501,Valley View Landfill Inc.,Decatur,Macon,62522,39.8245,-89.0432,"Waste Management, Inc.",Open,9890479,10,Yes,1.622,19.464,Unknown,,0,skyblue
+501,Valley View Landfill Inc.,Decatur,Macon,62522,39.8245,-89.0432,"Waste Management, Inc.",Open,9890479,10,Yes,1.622,19.464,Reciprocating Engine,,0,skyblue
+513,Sangamon Valley Landfill Inc.,Springfield,Sangamon,62707,39.860188,-89.607711,"Republic Services, Inc.",Open,3897948,6,Yes,0.781,9.372,Unknown,,0,skyblue
+513,Sangamon Valley Landfill Inc.,Springfield,Sangamon,62707,39.860188,-89.607711,"Republic Services, Inc.",Open,3897948,6,Yes,0.781,9.372,Reciprocating Engine,,0,skyblue
+482,Multi-County LF,Villa Grove,Douglas,,39.875,-88.14,Landfill Owner of Multi-County LF,Closed,1307103,4,No,,0,Unknown,,0,tan
+469,Quincy Landfills #2 and #3,Quincy,Adams,62301,39.9295,-91.27622,City of Quincy,Closed,2187359,5,No,,0,Unknown,,0,tan
+1864,Brickyard Disposal & Recycling Inc.,Danville,Vermilion,61832,40.09966,-87.6163,"Republic Services, Inc.",Open,11091487,11,Yes,2.694,32.328,Reciprocating Engine,,0,skyblue
+1864,Brickyard Disposal & Recycling Inc.,Danville,Vermilion,61832,40.09966,-87.6163,"Republic Services, Inc.",Open,11091487,11,Yes,2.694,32.328,Organic Rankine Cycle,,0,skyblue
+1864,Brickyard Disposal & Recycling Inc.,Danville,Vermilion,61832,40.09966,-87.6163,"Republic Services, Inc.",Open,11091487,11,Yes,2.694,32.328,Reciprocating Engine,,0,skyblue
+1864,Brickyard Disposal & Recycling Inc.,Danville,Vermilion,61832,40.09966,-87.6163,"Republic Services, Inc.",Open,11091487,11,Yes,2.694,32.328,Unknown,,0,skyblue
+11060,Urbana Municipal #1,Urbana,Champaign,61801,40.109433,-88.193347,"City of Urbana, IL",Closed,634500,3,No,,0,Unknown,,0,tan
+11080,Urbana Municipal #2,Urbana,Champaign,61802,40.109433,-88.193347,"City of Urbana, IL",Closed,235000,2,No,,0,Unknown,,0,tan
+481,Clinton Landfill Inc.,Clinton,De Witt,61727,40.114,-88.958,"Coulter Companies, Inc.",Open,8638627,9,Yes,1.871,22.452,Reciprocating Engine,0.1039,1.24692,skyblue
+12145,Indian Creek Landfill #2,Hopedale,Tazewell,61747,40.427915,-89.464918,"Coulter Companies, Inc.",Open,4642162,7,Yes,1.067,12.804,Unknown,,0,skyblue
+1872,Illinois Landfill Inc.,Hoopeston,Vermilion,60942,40.445375,-87.63883,"Republic Services, Inc.",Open,2497016,5,No,,0,Unknown,,0,brown
+1861,Bloomington LF,Bloomington,McLean,61704,40.465,-89.036,,Closed,1000000,3,No,,0,Unknown,,0,tan
+500,ADS/McLean County LF #2,Bloomington,McLean,61704,40.466463,-89.030787,"Republic Services, Inc.",Closed,2626797,5,Yes,1.096,13.152,Unknown,,0,darkblue
+499,Envirofil of Illinois Inc.,Macomb,McDonough,61455,40.484333,-90.638,"Waste Management, Inc.",Open,4282481,7,Yes,0.368,4.416,Unknown,,0,skyblue
+517,Pekin Metropolitan Landfill,Pekin,Tazewell,61554,40.5664,-89.6282,Smith family,Closed,3329169,6,No,,0,Unknown,,0,tan
+2318,Spoon Ridge Landfill,Fairview,Fulton,61432,40.6558,-90.1634,"Republic Services, Inc.",Closed,285603,2,No,,0,Unknown,,0,tan
+518,Tazewell RDF,East Peoria,Tazewell,61611,40.68181,-89.51613,"Waste Management, Inc.",Closed,6701428,8,Yes,1.049,12.588,Reciprocating Engine,0.0678,0.81324,darkblue
+518,Tazewell RDF,East Peoria,Tazewell,61611,40.68181,-89.51613,"Waste Management, Inc.",Closed,6701428,8,Yes,1.049,12.588,Reciprocating Engine,0.0226,0.27108,darkblue
+519,Washington LF Inc.,Washington,Tazewell,61571,40.6901,-89.4163,Peoria Disposal Company,Closed,1529502,4,No,,0,Unknown,,0,tan
+1868,Peoria City/County Landfills #1 and #2,Brimfield,Peoria,61517,40.742538,-89.798606,"City of Peoria, IL; County of Peoria, IL",Open,8671265,9,Yes,2.007,24.084,Unknown,,0,skyblue
+1868,Peoria City/County Landfills #1 and #2,Brimfield,Peoria,61517,40.742538,-89.798606,"City of Peoria, IL; County of Peoria, IL",Open,8671265,9,Yes,2.007,24.084,Reciprocating Engine,,0,skyblue
+509,Peoria Disposal Company #1,Peoria,Peoria,61528,40.7655,-89.6983,Peoria Disposal Company,Closed,889200,3,No,,0,Unknown,,0,tan
+489,K & H Disposal Landfill,Donovan,Iroquois,60931,40.8833,-87.6161,"Republic Services, Inc.",Closed,8887255,9,No,,0,Unknown,,0,tan
+497,Livingston LF,Pontiac,Livingston,61764,40.93178,-88.65735,"Republic Services, Inc.",Open,53783549,23,Yes,10.559,126.708,Gas Turbine,0.0000,0,skyblue
+497,Livingston LF,Pontiac,Livingston,61764,40.93178,-88.65735,"Republic Services, Inc.",Open,53783549,23,Yes,10.559,126.708,Gas Turbine,0.6777,8.1324,skyblue
+2308,Knox County LF #3,Oneida,Knox,61467,41.015,-90.248,"Knox County, IL",Open,3311836,6,No,,0,Unknown,,0,brown
+493,Kankakee County RDF,Chebanse,Kankakee,60922,41.031,-87.8624,"Waste Management, Inc.",Closed,3336571,6,Yes,0.206,2.472,Reciprocating Engine,,0,darkblue
+493,Kankakee County RDF,Chebanse,Kankakee,60922,41.031,-87.8624,"Waste Management, Inc.",Closed,3336571,6,Yes,0.206,2.472,Reciprocating Engine,,0,darkblue
+498,Streator Area LF No. 3,Streator,Livingston,61364,41.0916,-88.8521,"Republic Services, Inc.",Closed,2500000,5,Yes,0.477,5.724,Reciprocating Engine,,0,darkblue
+2315,Prairie View RDF,Wilmington,Will,60481,41.34,-88.13,"Will County, IL",Open,11324812,11,Yes,4.945,59.34,Reciprocating Engine,0.1988,2.38548,skyblue
+2315,Prairie View RDF,Wilmington,Will,60481,41.34,-88.13,"Will County, IL",Open,11324812,11,Yes,4.945,59.34,Vehicle Fuel,,0,skyblue
+2309,LandComp Landfill,Ottawa,LaSalle,61350,41.347899,-88.913509,"Republic Services, Inc.",Open,4088786,6,Yes,0.895,10.74,Unknown,,0,skyblue
+486,Morris Community LF,Morris,Grundy,60450,41.3716,-88.4026,City of Morris,Closed,1022000,3,No,0.265,3.18,Reciprocating Engine,,0,tan
+487,Environtech LF,Morris,Grundy,60450,41.37299,-88.4026,"Republic Services, Inc.",Closed,7904743,9,Yes,0.887,10.644,Reciprocating Engine,,0,darkblue
+487,Environtech LF,Morris,Grundy,60450,41.37299,-88.4026,"Republic Services, Inc.",Closed,7904743,9,Yes,0.887,10.644,Reciprocating Engine,,0,darkblue
+12144,Quad Cities Landfill Phase IV,Milan,Rock Island,61264,41.379843,-90.510288,"Waste Connections, Inc.",Open,7671215,9,Yes,1.742,20.904,Unknown,,0,skyblue
+510,"Quad Cities LF Phases 1, 2, & 3",Milan,Rock Island,61264,41.3825,-90.5128,"Republic Services, Inc.",Closed,5128385,7,Yes,0.393,4.716,Reciprocating Engine,,0,darkblue
+521,Beecher Landfill,Beecher,Will,60401,41.3915,-87.6388,"Waste Management, Inc.",Closed,4613270,7,Yes,0.7,8.4,Reciprocating Engine,0.0000,0,darkblue
+521,Beecher Landfill,Beecher,Will,60401,41.3915,-87.6388,"Waste Management, Inc.",Closed,4613270,7,Yes,0.7,8.4,Reciprocating Engine,0.0000,0,darkblue
+521,Beecher Landfill,Beecher,Will,60401,41.3915,-87.6388,"Waste Management, Inc.",Closed,4613270,7,Yes,0.7,8.4,Reciprocating Engine,0.0655,0.78612,darkblue
+1869,Taylor Ridge LF,Taylor Ridge,Rock Island,61284,41.44378,-90.67702,"Midwest Methane, Inc.",Closed,11168558,11,Yes,3.5,42,Unknown,,0,darkblue
+523,Laraway RDF,Elwood,Will,60421,41.45101,-88.10807,"Waste Management, Inc.",Closed,693240,3,Yes,,0,Unknown,,0,darkblue
+522,CDT LF,Rockdale,Will,60436,41.500371,-88.144914,CDT Landfill Corporation,Closed,1596000,4,Yes,0.5,6,Reciprocating Engine,0.0723,0.86748,darkblue
+511,Upper Rock Island County LF,East Moline,Rock Island,61244,41.53629,-90.3766,"Republic Services, Inc.",Open,8078098,9,Yes,2.606,31.272,Unknown,,0,skyblue
+511,Upper Rock Island County LF,East Moline,Rock Island,61244,41.53629,-90.3766,"Republic Services, Inc.",Open,8078098,9,Yes,2.606,31.272,Reciprocating Engine,,0,skyblue
+511,Upper Rock Island County LF,East Moline,Rock Island,61244,41.53629,-90.3766,"Republic Services, Inc.",Open,8078098,9,Yes,2.606,31.272,Reciprocating Engine,,0,skyblue
+1857,Lansing LF,Lansing,Cook,60438,41.586111,-87.55,Prairie Preservation,Closed,1300000,4,Yes,,0,Reciprocating Engine,,0,darkblue
+527,River Bend Prairie Landfill,Dolton,Cook,60419,41.6446,-87.5979,Land and Lakes Company,Closed,12024778,11,Yes,0.847,10.164,Reciprocating Engine,,0,darkblue
+476,Land & Lakes #1 and #2,Park Ridge,Cook,60068,41.644648,-87.59333,Land and Lakes Company,Closed,11183620,11,Yes,,0,Reciprocating Engine,,0,darkblue
+474,CID Recycling and Disposal Facility,Chicago,Cook,60633,41.655,-87.578,"Waste Management, Inc.",Closed,31065972,18,Yes,1.893,22.716,Gas Turbine,0.0000,0,darkblue
+474,CID Recycling and Disposal Facility,Chicago,Cook,60633,41.655,-87.578,"Waste Management, Inc.",Closed,31065972,18,Yes,1.893,22.716,Gas Turbine,0.0000,0,darkblue
+474,CID Recycling and Disposal Facility,Chicago,Cook,60633,41.655,-87.578,"Waste Management, Inc.",Closed,31065972,18,Yes,1.893,22.716,Gas Turbine,0.1148,1.37712,darkblue
+2322,Land & Lakes/Willow Ranch Landfill,Romeoville,Will,60446,41.670518,-88.062795,Land and Lakes Company,Closed,2000000,4,Yes,0.385,4.62,Reciprocating Engine,0.0181,0.21684,darkblue
+477,Land & Lakes #3,Chicago,Cook,60633,41.6737,-87.5732,Land and Lakes Company,Closed,3307390,6,Yes,0.468,5.616,Reciprocating Engine,,0,darkblue
+478,Paxton LF Corporation #2,Chicago,Cook,,41.68167,-87.57284,,Closed,9766782,10,Yes,0.962,11.544,Unknown,,0,darkblue
+2321,Wheatland Prairie RDF,Plainfield,Will,60585,41.684,-88.239,"Waste Management, Inc.",Closed,4030302,6,Yes,0.18,2.16,Unknown,,0,darkblue
+483,Greene Valley RDF,Naperville,DuPage,60565,41.73045,-88.07444,"Forest Preserve District of DuPage County, IL",Closed,16282279,13,Yes,3.382,40.584,Gas Turbine,0.0000,0,darkblue
+483,Greene Valley RDF,Naperville,DuPage,60565,41.73045,-88.07444,"Forest Preserve District of DuPage County, IL",Closed,16282279,13,Yes,3.382,40.584,Gas Turbine,0.2169,2.60232,darkblue
+2324,Lee County Landfill,Dixon,Lee,61021,41.731,-89.395,"Republic Services, Inc.",Open,20060052,14,Yes,4.738,56.856,Unknown,,0,skyblue
+2324,Lee County Landfill,Dixon,Lee,61021,41.731,-89.395,"Republic Services, Inc.",Open,20060052,14,Yes,4.738,56.856,Reciprocating Engine,,0,skyblue
+2324,Lee County Landfill,Dixon,Lee,61021,41.731,-89.395,"Republic Services, Inc.",Open,20060052,14,Yes,4.738,56.856,Reciprocating Engine,,0,skyblue
+2314,Whiteside County Landfill,Morrison,Whiteside,61270,41.79635,-89.88612,"Whiteside County, IL",Open,8514486,9,Yes,2.756,33.072,Unknown,,0,skyblue
+1859,31st Street Landfill,Westchester,Cook,60154,41.83894,-87.91497,Archdiocese of Chicago,Closed,9582454,10,Yes,0.95,11.4,Reciprocating Engine,,0,darkblue
+491,Settler's Hill Recycling & Disposal Facility,Batavia,Kane,60510,41.86965,-88.28543,Kane County Department of Environmental Management,Closed,19560637,14,Yes,3.308,39.696,Gas Turbine,0.0000,0,darkblue
+491,Settler's Hill Recycling & Disposal Facility,Batavia,Kane,60510,41.86965,-88.28543,Kane County Department of Environmental Management,Closed,19560637,14,Yes,3.308,39.696,Gas Turbine,0.0000,0,darkblue
+491,Settler's Hill Recycling & Disposal Facility,Batavia,Kane,60510,41.86965,-88.28543,Kane County Department of Environmental Management,Closed,19560637,14,Yes,3.308,39.696,Gas Turbine,0.1807,2.16864,darkblue
+1862,Congress Development Company LF,Hillside,Cook,60162,41.8721,-87.8885,Congress Development Company,Closed,8861616,9,Yes,3.705,44.46,Gas Turbine,,0,darkblue
+480,DeKalb County LF,DeKalb,DeKalb,60115,41.898,-88.686,"Waste Management, Inc.",Open,6204969,8,Yes,2.465,29.58,Unknown,,0,skyblue
+507,Rochelle Municipal #2,Rochelle,Ogle,61068,41.926,-88.997,"City of Rochelle, IL",Open,5372301,7,Yes,1.447,17.364,Reciprocating Engine,0.0809,0.97044,skyblue
+484,Mallard Lake LF,Hanover Park,DuPage,60133,41.9525,-88.1442,"Forest Preserve District of DuPage County, IL",Closed,22433253,15,Yes,4.614,55.368,Combined Cycle,,0,darkblue
+492,Woodland RDF,South Elgin,Kane,60177,41.98077,-88.269,"Waste Management, Inc.",Closed,7800000,9,Yes,2.34,28.08,Reciprocating Engine,0.0642,0.76992,darkblue
+492,Woodland RDF,South Elgin,Kane,60177,41.98077,-88.269,"Waste Management, Inc.",Closed,7800000,9,Yes,2.34,28.08,Reciprocating Engine,0.1152,1.38252,darkblue
+1866,Des Plaines Landfill,Des Plaines,Cook,60016,42.0689,-87.8653,Archdiocese of Chicago,Closed,6914370,8,Yes,0.376,4.512,Reciprocating Engine,,0,darkblue
+1866,Des Plaines Landfill,Des Plaines,Cook,60016,42.0689,-87.8653,Archdiocese of Chicago,Closed,6914370,8,Yes,0.376,4.512,Reciprocating Engine,,0,darkblue
+529,South Barrington Landfill,South Barrington,Cook,60010,42.0816,-88.13,"Republic Services, Inc.",Closed,1000000,3,Yes,0.912,10.944,Reciprocating Engine,0.0723,0.86748,darkblue
+475,Lake LF,Northbrook,Cook,60062,42.1055,-87.8125,"Waste Management, Inc.",Closed,15786494,13,Yes,1.74,20.88,Gas Turbine,0.0000,0,darkblue
+475,Lake LF,Northbrook,Cook,60062,42.1055,-87.8125,"Waste Management, Inc.",Closed,15786494,13,Yes,1.74,20.88,Gas Turbine,0.0000,0,darkblue
+475,Lake LF,Northbrook,Cook,60062,42.1055,-87.8125,"Waste Management, Inc.",Closed,15786494,13,Yes,1.74,20.88,Gas Turbine,0.0000,0,darkblue
+475,Lake LF,Northbrook,Cook,60062,42.1055,-87.8125,"Waste Management, Inc.",Closed,15786494,13,Yes,1.74,20.88,Gas Turbine,0.1220,1.46388,darkblue
+1899,Orchard Hills Landfill Inc.,Davis Junction,Ogle,61020,42.14322,-89.0769,"Waste Management, Inc.",Open,32515162,18,Yes,8.757,105.084,Reciprocating Engine,0.1934,2.32044,skyblue
+2418,Davis Junction Landfill,Davis Junction,Ogle,61020,42.147,-89.0825,"Republic Services, Inc.",Closed,,0,Yes,0.403,4.836,Reciprocating Engine,,0,darkblue
+2323,Winnebago Landfill,Rockford,Winnebago,61109,42.1597,-89.0554,"Waste Connections, Inc.",Open,23175993,15,Yes,7.433,89.196,Reciprocating Engine,,0,skyblue
+2323,Winnebago Landfill,Rockford,Winnebago,61109,42.1597,-89.0554,"Waste Connections, Inc.",Open,23175993,15,Yes,7.433,89.196,Unknown,,0,skyblue
+2323,Winnebago Landfill,Rockford,Winnebago,61109,42.1597,-89.0554,"Waste Connections, Inc.",Open,23175993,15,Yes,7.433,89.196,Direct Thermal,,0,skyblue
+2307,Freeport Municipal Landfill #4,Freeport,Stephenson,61032,42.2657,-89.6212,"City of Freeport, IL",Closed,780000,3,No,,0,Unknown,,0,tan
+495,Countryside LF,Grayslake,Lake,60030,42.32424,-88.0289,"Waste Management, Inc.",Open,15997435,13,Yes,4.222,50.664,Reciprocating Engine,0.0000,0,skyblue
+495,Countryside LF,Grayslake,Lake,60030,42.32424,-88.0289,"Waste Management, Inc.",Open,15997435,13,Yes,4.222,50.664,Gas Turbine,0.1789,2.14692,skyblue
+2164,H.O.D. Landfill,Antioch,Lake,60002,42.476,-88.082,"Waste Management, Inc.",Closed,2000000,4,Yes,0.432,5.184,Cogeneration,,0,darkblue
+494,Zion Landfill,Zion,Lake,60099,42.48483,-87.88497,GFL Environmental USA Inc.,Open,22421189,15,Yes,8.1,97.2,Reciprocating Engine,0.2440,2.92764,skyblue
+494,Zion Landfill,Zion,Lake,60099,42.48483,-87.88497,GFL Environmental USA Inc.,Open,22421189,15,Yes,8.1,97.2,Reciprocating Engine,0.0633,0.759,skyblue
